@@ -1,7 +1,7 @@
 # Raycasting
 
-* [Introdução](#introducao)
-* [A Ideia Básica](#a-ideia-basica)
+* [Introdução](#introdução)
+* [A Ideia Básica](#a-ideia-básica)
 * [Raycaster sem Textura](#raycaster-sem-textura)
 * [Raycaster Texturizado]()
 * [Texturas 3D de Wolfenstein]()
